@@ -28,8 +28,8 @@ The code repo below contains everything implemented in this project.
 
 ### YOLOv5 - Penguin, Fish, and Bubble Detector
 <p align="center">
-      <img src="result/result1.gif" width=400>
-      <img src="result/result2.gif" width=400>
+      <img src="/result/result1.gif" width=400>
+      <img src="/result/result2.gif" width=400>
 </p>
 
 ###  ResNet - Whole Frame Fish Classifier
@@ -43,8 +43,8 @@ The code repo below contains everything implemented in this project.
 
 ### Dual Stream Network - Spatio&Temporal Predation Behaviour Detector
 <p align="center">
-      <img src="result/result3.gif" width=400>
-      <img src="result/result4.gif" width=400>
+      <img src="/result/result3.gif" width=400>
+      <img src="/result/result4.gif" width=400>
 </p>
 
 
