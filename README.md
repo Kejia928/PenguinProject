@@ -26,6 +26,28 @@ The code repo below contains everything implemented in this project.
 
 ## Visualisation Results
 
+### YOLOv5 - Penguin, Fish, and Bubble Detector
+<p align="center">
+      <img src="result/result1.gif" width=400>
+      <img src="result/result2.gif" width=400>
+</p>
+
+###  ResNet - Whole Frame Fish Classifier
+<p align="center">
+      <img src="result/img1.png" width=400>
+      <img src="result/img2.png" width=400>
+      <br>
+      <img src="result/img3.png" width=400>
+      <img src="result/img4.png" width=400>
+</p>
+
+### Dual Stream Network - Spatio&Temporal Predation Behaviour Detector
+<p align="center">
+      <img src="result/result3.gif" width=400>
+      <img src="result/result4.gif" width=400>
+</p>
+
+
 ## Author
 - **Kejia Zhang:** Department of Computer Science, University of Bristol, Bristol, UK  
 - **Mingyu Yang:** Department of Computer Science, University of Bristol, Bristol, UK  
