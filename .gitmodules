@@ -1,15 +1,15 @@
-[submodule "global-detection-dataset"]
-	path = global-detection-dataset
-	url = https://github.com/Kejia928/global-detection-dataset.git
-[submodule "local-detection-dataset"]
-	path = local-detection-dataset
-	url = https://github.com/Kejia928/local-detection-dataset.git
 [submodule "PenguinDetector"]
 	path = PenguinDetector
 	url = https://github.com/Kejia928/PenguinDetector.git
+[submodule "local-detection-dataset"]
+	path = local-detection-dataset
+	url = https://github.com/Kejia928/local-detection-dataset.git
 [submodule "FishDetector"]
 	path = FishDetector
 	url = https://github.com/Kejia928/FishDetector.git
+[submodule "global-detection-dataset"]
+	path = global-detection-dataset
+	url = https://github.com/Kejia928/global-detection-dataset.git
 [submodule "PredationDetector"]
 	path = PredationDetector
 	url = https://github.com/Kejia928/PredationDetector.git
